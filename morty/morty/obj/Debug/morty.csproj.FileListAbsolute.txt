@@ -1,0 +1,10 @@
+C:\Users\90536\Desktop\sesliiii\morty\morty\bin\Debug\morty.exe.config
+C:\Users\90536\Desktop\sesliiii\morty\morty\bin\Debug\morty.exe
+C:\Users\90536\Desktop\sesliiii\morty\morty\bin\Debug\morty.pdb
+C:\Users\90536\Desktop\sesliiii\morty\morty\obj\Debug\morty.csproj.AssemblyReference.cache
+C:\Users\90536\Desktop\sesliiii\morty\morty\obj\Debug\morty.Form1.resources
+C:\Users\90536\Desktop\sesliiii\morty\morty\obj\Debug\morty.Properties.Resources.resources
+C:\Users\90536\Desktop\sesliiii\morty\morty\obj\Debug\morty.csproj.GenerateResource.cache
+C:\Users\90536\Desktop\sesliiii\morty\morty\obj\Debug\morty.csproj.CoreCompileInputs.cache
+C:\Users\90536\Desktop\sesliiii\morty\morty\obj\Debug\morty.exe
+C:\Users\90536\Desktop\sesliiii\morty\morty\obj\Debug\morty.pdb
